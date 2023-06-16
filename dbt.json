@@ -1,0 +1,28 @@
+{
+   "Actividades":[
+      {
+         "idActividad":"1",
+         "strActividad":"SandBoarding",
+         "strActividadThumb":"https://www.visitanicaragua.com/wp-content/uploads/2019/02/Cerro-Negro-800x471.jpg",
+         "strActividadDescripcion":"Consiste en deslizarse sobre cerros de arena encima de una tabla, en Nicaragua este deporte extremo podemos practicarlo en el volcán Cerro Negro"
+      },
+      {
+         "idActividad":"2",
+         "strActividad":"Canopy",
+         "strActividadThumb":"https://www.visitanicaragua.com/wp-content/uploads/2019/02/Canopy-jinotega-800x471.jpg",
+         "strActividadDescripcion":"Esta actividad sumamente extrema podés realizarla en el volcán Mombacho en Granada, también en La Brellera en San Rafael del Norte, Jinotega, en el cerro El Calvario y cascada La Luna en Matagalpa y en San Juan del Sur"
+      },
+      {
+         "idActividad":"3",
+         "strActividad":"kayak",
+         "strActividadThumb":"https://www.visitanicaragua.com/wp-content/uploads/2019/02/kayak-nicaragua-800x471.jpg",
+         "strActividadDescripcion":"En Nicaragua es un privilegio porque para practicarlo debemos visitar  el grandioso lago Cocibolca, específicamente en las isletas de Granada y el caudaloso río San Juan "
+      },
+      {
+         "idActividad":"4",
+         "strActividad":"Rappel",
+         "strActividadThumb":"https://www.mapanicaragua.com/wp-content/uploads/2020/05/Madriz-Ca%C3%B1%C3%B3n-de-Somoto--800x526.jpg",
+         "strActividadDescripcion":"Nicaragua posee una riqueza en escenarios para realizar este tipo de actividad, sobre todo en la zona norte donde se destacan cadenas montañosas, cascadas o sitios ideales para el descenso, aunque todavía no se encuentra muy desarrollado"
+      }
+   ]
+}
