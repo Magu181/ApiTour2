@@ -24,9 +24,8 @@
          "strActividadThumb":"https://www.mapanicaragua.com/wp-content/uploads/2020/05/Madriz-Ca%C3%B1%C3%B3n-de-Somoto--800x526.jpg",
          "strActividadDescripcion":"Nicaragua posee una riqueza en escenarios para realizar este tipo de actividad, sobre todo en la zona norte donde se destacan cadenas montañosas, cascadas o sitios ideales para el descenso, aunque todavía no se encuentra muy desarrollado"
       }
-   ]
-}
-   {"OActividades":[
+   ],
+   "OActividades":[
       {
          "idActividad":"1",
          "strActividad":"Aguizotes",
