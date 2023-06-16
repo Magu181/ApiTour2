@@ -24,5 +24,31 @@
          "strActividadThumb":"https://www.mapanicaragua.com/wp-content/uploads/2020/05/Madriz-Ca%C3%B1%C3%B3n-de-Somoto--800x526.jpg",
          "strActividadDescripcion":"Nicaragua posee una riqueza en escenarios para realizar este tipo de actividad, sobre todo en la zona norte donde se destacan cadenas montañosas, cascadas o sitios ideales para el descenso, aunque todavía no se encuentra muy desarrollado"
       }
+   ],
+   "OActividades":[
+      {
+         "idActividad":"1",
+         "strActividad":"Aguizotes",
+         "strActividadThumb":"https://www.visitanicaragua.com/wp-content/uploads/2020/10/aguizote-2020.jpg",
+         "strActividadDescripcion":"Esta celebración siempre se lleva a cabo año con año el último viernes de Octubre,sale históricamente de la Plaza de Magdalena, en el barrio Indígena de Monimbo"
+      },
+      {
+         "idActividad":"2",
+         "strActividad":"Viacrucis Acuatico",
+         "strActividadThumb":"https://vianica.com/imgi/550/24480.jpg",
+         "strActividadDescripcion":"Esta celebración se lleva acabo en Granada donde se rezan las estaciones de la cruz en 14 de las isletas que se encuentran en el lago de Nicaragua"
+      },
+      {
+         "idActividad":"3",
+         "strActividad":"Festival Palo de Mayo",
+         "strActividadThumb":"https://www.nicaraguacreativa.com/wp-content/uploads/2022/05/DSC0308.jpg",
+         "strActividadDescripcion":"Esta fiesta se lleva acabo en la costa caribe de Nicaragua donde se adornan árboles con cintas de colores; se realizaban juegos y bailes alrededor del árbol decorado."
+      },
+      {
+         "idActividad":"4",
+         "strActividad":"Bailes De Negras",
+         "strActividadThumb":"https://www.articulo66.com/wp-content/uploads/2020/08/tmp826212386049359872.jpg",
+         "strActividadDescripcion":"Baile que es ejecutado en la ciudad de masaya y se realiza cada penúltimo domingo de Noviembre "
+      }
    ]
 }
